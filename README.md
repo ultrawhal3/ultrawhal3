@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ultrawhal3
+- 👀 I’m interested in coding(Mainly Python and html)
+- 🌱 I’m currently learning coding
